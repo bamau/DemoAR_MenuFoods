@@ -1,0 +1,983 @@
+fileFormatVersion: 2
+guid: 26745eff7662cf944939ed37bec7a3a6
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Assets:m_Plate3
+    100002: group2
+    100004: group3
+    100006: pCube1
+    100008: pCube1 1
+    100010: pCube10
+    100012: pCube10 1
+    100014: pCube11
+    100016: pCube11 1
+    100018: pCube12
+    100020: pCube13
+    100022: pCube14
+    100024: pCube15
+    100026: pCube16
+    100028: pCube17
+    100030: pCube18
+    100032: pCube19
+    100034: pCube20
+    100036: pCube21
+    100038: pCube22
+    100040: pCube23
+    100042: pCube24
+    100044: pCube25
+    100046: pCube26
+    100048: pCube27
+    100050: pCube28
+    100052: pCube29
+    100054: pCube3
+    100056: pCube30
+    100058: pCube31
+    100060: pCube32
+    100062: pCube33
+    100064: pCube34
+    100066: pCube35
+    100068: pCube36
+    100070: pCube37
+    100072: pCube38
+    100074: pCube39
+    100076: pCube4
+    100078: pCube40
+    100080: pCube41
+    100082: pCube42
+    100084: pCube43
+    100086: pCube44
+    100088: pCube45
+    100090: pCube46
+    100092: pCube46 1
+    100094: pCube47
+    100096: pCube47 1
+    100098: pCube48
+    100100: pCube48 1
+    100102: pCube49
+    100104: pCube49 1
+    100106: pCube5
+    100108: pCube5 1
+    100110: pCube50
+    100112: pCube51
+    100114: pCube52
+    100116: pCube53
+    100118: pCube54
+    100120: pCube55
+    100122: pCube56
+    100124: pCube57
+    100126: pCube58
+    100128: pCube59
+    100130: pCube6
+    100132: pCube6 1
+    100134: pCube60
+    100136: pCube61
+    100138: pCube62
+    100140: pCube63
+    100142: pCube64
+    100144: pCube65
+    100146: pCube66
+    100148: pCube67
+    100150: pCube68
+    100152: pCube69
+    100154: pCube7
+    100156: pCube7 1
+    100158: pCube70
+    100160: pCube71
+    100162: pCube72
+    100164: pCube73
+    100166: pCube8
+    100168: pCube9
+    100170: pCube9 1
+    100172: Pollo
+    100174: //RootNode
+    400000: Assets:m_Plate3
+    400002: group2
+    400004: group3
+    400006: pCube1
+    400008: pCube1 1
+    400010: pCube10
+    400012: pCube10 1
+    400014: pCube11
+    400016: pCube11 1
+    400018: pCube12
+    400020: pCube13
+    400022: pCube14
+    400024: pCube15
+    400026: pCube16
+    400028: pCube17
+    400030: pCube18
+    400032: pCube19
+    400034: pCube20
+    400036: pCube21
+    400038: pCube22
+    400040: pCube23
+    400042: pCube24
+    400044: pCube25
+    400046: pCube26
+    400048: pCube27
+    400050: pCube28
+    400052: pCube29
+    400054: pCube3
+    400056: pCube30
+    400058: pCube31
+    400060: pCube32
+    400062: pCube33
+    400064: pCube34
+    400066: pCube35
+    400068: pCube36
+    400070: pCube37
+    400072: pCube38
+    400074: pCube39
+    400076: pCube4
+    400078: pCube40
+    400080: pCube41
+    400082: pCube42
+    400084: pCube43
+    400086: pCube44
+    400088: pCube45
+    400090: pCube46
+    400092: pCube46 1
+    400094: pCube47
+    400096: pCube47 1
+    400098: pCube48
+    400100: pCube48 1
+    400102: pCube49
+    400104: pCube49 1
+    400106: pCube5
+    400108: pCube5 1
+    400110: pCube50
+    400112: pCube51
+    400114: pCube52
+    400116: pCube53
+    400118: pCube54
+    400120: pCube55
+    400122: pCube56
+    400124: pCube57
+    400126: pCube58
+    400128: pCube59
+    400130: pCube6
+    400132: pCube6 1
+    400134: pCube60
+    400136: pCube61
+    400138: pCube62
+    400140: pCube63
+    400142: pCube64
+    400144: pCube65
+    400146: pCube66
+    400148: pCube67
+    400150: pCube68
+    400152: pCube69
+    400154: pCube7
+    400156: pCube7 1
+    400158: pCube70
+    400160: pCube71
+    400162: pCube72
+    400164: pCube73
+    400166: pCube8
+    400168: pCube9
+    400170: pCube9 1
+    400172: Pollo
+    400174: //RootNode
+    2100000: Veggies
+    2100002: blinn1
+    2100004: Assets_metal
+    2300000: Assets:m_Plate3
+    2300002: pCube1
+    2300004: pCube1 1
+    2300006: pCube10
+    2300008: pCube10 1
+    2300010: pCube11
+    2300012: pCube11 1
+    2300014: pCube12
+    2300016: pCube13
+    2300018: pCube14
+    2300020: pCube15
+    2300022: pCube16
+    2300024: pCube17
+    2300026: pCube18
+    2300028: pCube19
+    2300030: pCube20
+    2300032: pCube21
+    2300034: pCube22
+    2300036: pCube23
+    2300038: pCube24
+    2300040: pCube25
+    2300042: pCube26
+    2300044: pCube27
+    2300046: pCube28
+    2300048: pCube29
+    2300050: pCube3
+    2300052: pCube30
+    2300054: pCube31
+    2300056: pCube32
+    2300058: pCube33
+    2300060: pCube34
+    2300062: pCube35
+    2300064: pCube36
+    2300066: pCube37
+    2300068: pCube38
+    2300070: pCube39
+    2300072: pCube4
+    2300074: pCube40
+    2300076: pCube41
+    2300078: pCube42
+    2300080: pCube43
+    2300082: pCube44
+    2300084: pCube45
+    2300086: pCube46
+    2300088: pCube46 1
+    2300090: pCube47
+    2300092: pCube47 1
+    2300094: pCube48
+    2300096: pCube48 1
+    2300098: pCube49
+    2300100: pCube49 1
+    2300102: pCube5
+    2300104: pCube5 1
+    2300106: pCube50
+    2300108: pCube51
+    2300110: pCube52
+    2300112: pCube53
+    2300114: pCube54
+    2300116: pCube55
+    2300118: pCube56
+    2300120: pCube57
+    2300122: pCube58
+    2300124: pCube59
+    2300126: pCube6
+    2300128: pCube6 1
+    2300130: pCube60
+    2300132: pCube61
+    2300134: pCube62
+    2300136: pCube63
+    2300138: pCube64
+    2300140: pCube65
+    2300142: pCube66
+    2300144: pCube67
+    2300146: pCube68
+    2300148: pCube69
+    2300150: pCube7
+    2300152: pCube7 1
+    2300154: pCube70
+    2300156: pCube71
+    2300158: pCube72
+    2300160: pCube73
+    2300162: pCube8
+    2300164: pCube9
+    2300166: pCube9 1
+    2300168: Pollo
+    3300000: Assets:m_Plate3
+    3300002: pCube1
+    3300004: pCube1 1
+    3300006: pCube10
+    3300008: pCube10 1
+    3300010: pCube11
+    3300012: pCube11 1
+    3300014: pCube12
+    3300016: pCube13
+    3300018: pCube14
+    3300020: pCube15
+    3300022: pCube16
+    3300024: pCube17
+    3300026: pCube18
+    3300028: pCube19
+    3300030: pCube20
+    3300032: pCube21
+    3300034: pCube22
+    3300036: pCube23
+    3300038: pCube24
+    3300040: pCube25
+    3300042: pCube26
+    3300044: pCube27
+    3300046: pCube28
+    3300048: pCube29
+    3300050: pCube3
+    3300052: pCube30
+    3300054: pCube31
+    3300056: pCube32
+    3300058: pCube33
+    3300060: pCube34
+    3300062: pCube35
+    3300064: pCube36
+    3300066: pCube37
+    3300068: pCube38
+    3300070: pCube39
+    3300072: pCube4
+    3300074: pCube40
+    3300076: pCube41
+    3300078: pCube42
+    3300080: pCube43
+    3300082: pCube44
+    3300084: pCube45
+    3300086: pCube46
+    3300088: pCube46 1
+    3300090: pCube47
+    3300092: pCube47 1
+    3300094: pCube48
+    3300096: pCube48 1
+    3300098: pCube49
+    3300100: pCube49 1
+    3300102: pCube5
+    3300104: pCube5 1
+    3300106: pCube50
+    3300108: pCube51
+    3300110: pCube52
+    3300112: pCube53
+    3300114: pCube54
+    3300116: pCube55
+    3300118: pCube56
+    3300120: pCube57
+    3300122: pCube58
+    3300124: pCube59
+    3300126: pCube6
+    3300128: pCube6 1
+    3300130: pCube60
+    3300132: pCube61
+    3300134: pCube62
+    3300136: pCube63
+    3300138: pCube64
+    3300140: pCube65
+    3300142: pCube66
+    3300144: pCube67
+    3300146: pCube68
+    3300148: pCube69
+    3300150: pCube7
+    3300152: pCube7 1
+    3300154: pCube70
+    3300156: pCube71
+    3300158: pCube72
+    3300160: pCube73
+    3300162: pCube8
+    3300164: pCube9
+    3300166: pCube9 1
+    3300168: Pollo
+    4300000: pCube3
+    4300002: Pollo
+    4300004: pCube4
+    4300006: pCube8
+    4300008: pCube12
+    4300010: pCube13
+    4300012: pCube14
+    4300014: pCube15
+    4300016: pCube16
+    4300018: pCube17
+    4300020: pCube18
+    4300022: pCube19
+    4300024: pCube20
+    4300026: pCube21
+    4300028: pCube22
+    4300030: pCube23
+    4300032: pCube24
+    4300034: pCube25
+    4300036: pCube26
+    4300038: pCube27
+    4300040: pCube28
+    4300042: pCube29
+    4300044: pCube30
+    4300046: pCube31
+    4300048: pCube32
+    4300050: pCube33
+    4300052: pCube34
+    4300054: pCube35
+    4300056: pCube36
+    4300058: pCube37
+    4300060: pCube38
+    4300062: pCube39
+    4300064: pCube40
+    4300066: pCube41
+    4300068: pCube42
+    4300070: pCube43
+    4300072: pCube44
+    4300074: pCube45
+    4300076: pCube47
+    4300078: pCube5
+    4300080: pCube11
+    4300082: pCube6
+    4300084: pCube7
+    4300086: pCube10
+    4300088: pCube49
+    4300090: pCube9
+    4300092: pCube48
+    4300094: pCube46
+    4300096: pCube1
+    4300098: pCube47
+    4300100: pCube5
+    4300102: pCube11
+    4300104: pCube6
+    4300106: pCube7
+    4300108: pCube10
+    4300110: pCube49
+    4300112: pCube9
+    4300114: pCube48
+    4300116: pCube46
+    4300118: pCube1
+    4300120: pCube50
+    4300122: pCube51
+    4300124: pCube52
+    4300126: pCube53
+    4300128: pCube54
+    4300130: pCube55
+    4300132: pCube56
+    4300134: pCube57
+    4300136: pCube58
+    4300138: pCube59
+    4300140: pCube60
+    4300142: pCube61
+    4300144: pCube62
+    4300146: pCube63
+    4300148: pCube64
+    4300150: pCube65
+    4300152: pCube66
+    4300154: pCube67
+    4300156: pCube68
+    4300158: pCube69
+    4300160: pCube70
+    4300162: pCube71
+    4300164: pCube72
+    4300166: pCube73
+    4300168: Assets:m_Plate3
+    9500000: //RootNode
+    11100000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Assets_metal
+    second: {fileID: 2100000, guid: d7dd6067ea1d79e4a8c3a3831b9c90e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Veggies
+    second: {fileID: 2100000, guid: b5ce88dd9fde9eb4b9a1de5475915d56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn1
+    second: {fileID: 2100000, guid: f7d85013fa395054495d2376d5a9a9b8, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 1
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton:
+    - name: Pollo combo(Clone)
+      parentName: 
+      position: {x: -0, y: 2.7810662, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 11.331013, y: 11.331013, z: 11.331013}
+    - name: pCube3
+      parentName: Pollo combo(Clone)
+      position: {x: 0.0026738464, y: -0.17859612, z: -0.009922353}
+      rotation: {x: 0.42139164, y: -0, z: -0, w: 0.90687877}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Pollo
+      parentName: Pollo combo(Clone)
+      position: {x: 0.0000052994487, y: -0.17420553, z: 0.0027703717}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9740518, y: 0.9740518, z: 0.9740518}
+    - name: pCube4
+      parentName: Pollo combo(Clone)
+      position: {x: -0.006306765, y: -0.17879364, z: 0.0053653275}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube8
+      parentName: Pollo combo(Clone)
+      position: {x: -0.0059087933, y: -0.17905518, z: 0.00095421163}
+      rotation: {x: 0.7041587, y: 0.256675, z: -0.22672433, w: 0.6219924}
+      scale: {x: 0.5912566, y: 0.5912566, z: 0.5912566}
+    - name: pCube12
+      parentName: Pollo combo(Clone)
+      position: {x: -0.006306765, y: -0.1786061, z: 0.0069283415}
+      rotation: {x: -0.35073343, y: -0.49072412, z: 0.6489037, w: 0.46378857}
+      scale: {x: 0.8110671, y: 0.8110671, z: 0.8110671}
+    - name: pCube13
+      parentName: Pollo combo(Clone)
+      position: {x: -0.0059019336, y: -0.17899446, z: 0.007964585}
+      rotation: {x: 0.36742064, y: -0.4783578, z: -0.25488147, w: 0.7557852}
+      scale: {x: 0.8110671, y: 0.8110671, z: 0.8110671}
+    - name: pCube14
+      parentName: Pollo combo(Clone)
+      position: {x: -0.0060675964, y: -0.17899446, z: 0.0097795995}
+      rotation: {x: 0.25013945, y: -0.19161281, z: -0.034625627, w: 0.9484281}
+      scale: {x: 0.98402923, y: 0.98402923, z: 0.98402923}
+    - name: pCube15
+      parentName: Pollo combo(Clone)
+      position: {x: -0.0070580393, y: -0.17899446, z: 0.007964585}
+      rotation: {x: 0.41177103, y: 0.14156483, z: 0.09686256, w: 0.8949982}
+      scale: {x: 0.8110671, y: 0.8110671, z: 0.8110671}
+    - name: pCube16
+      parentName: Pollo combo(Clone)
+      position: {x: -0.0075224587, y: -0.17899446, z: 0.0063207713}
+      rotation: {x: 0.27183065, y: -0.33276972, z: 0.24175476, w: 0.87001556}
+      scale: {x: 0.8110671, y: 0.8110671, z: 0.8110671}
+    - name: pCube17
+      parentName: Pollo combo(Clone)
+      position: {x: -0.0022012757, y: -0.17878065, z: 0.011927295}
+      rotation: {x: 0.25013945, y: -0.19161281, z: -0.034625627, w: 0.9484281}
+      scale: {x: 0.98402923, y: 0.98402923, z: 0.98402923}
+    - name: pCube18
+      parentName: Pollo combo(Clone)
+      position: {x: -0.0037927933, y: -0.17878065, z: 0.011927295}
+      rotation: {x: -0.24391282, y: 0.39023623, z: -0.1916492, w: 0.8668869}
+      scale: {x: 0.98402923, y: 0.98402923, z: 0.98402923}
+    - name: pCube19
+      parentName: Pollo combo(Clone)
+      position: {x: -0.0052839946, y: -0.17876762, z: 0.011457054}
+      rotation: {x: -0.01996937, y: 0.40381184, z: 0.18560557, w: 0.8955935}
+      scale: {x: 0.85249245, y: 0.85249245, z: 0.85249245}
+    - name: pCube20
+      parentName: Pollo combo(Clone)
+      position: {x: -0.0006279039, y: -0.17878065, z: 0.011927295}
+      rotation: {x: 0.1678496, y: 0.7793318, z: 0.057391115, w: 0.60097814}
+      scale: {x: 0.98402923, y: 0.98402923, z: 0.98402923}
+    - name: pCube21
+      parentName: Pollo combo(Clone)
+      position: {x: -0.0010618264, y: -0.17878065, z: 0.013569747}
+      rotation: {x: 0.07619252, y: 0.47090834, z: 0.23357941, w: 0.8472784}
+      scale: {x: 0.71452105, y: 0.71452105, z: 0.71452105}
+    - name: pCube22
+      parentName: Pollo combo(Clone)
+      position: {x: -0.0022012757, y: -0.17878065, z: 0.014462688}
+      rotation: {x: 0.042807866, y: -0.671761, z: -0.50993186, w: 0.5356063}
+      scale: {x: 0.98402923, y: 0.98402923, z: 0.98402923}
+    - name: pCube23
+      parentName: Pollo combo(Clone)
+      position: {x: -0.003698938, y: -0.17878065, z: 0.013762714}
+      rotation: {x: -0.18330628, y: 0.6092265, z: -0.25024322, w: 0.72980833}
+      scale: {x: 0.98402923, y: 0.98402923, z: 0.98402923}
+    - name: pCube24
+      parentName: Pollo combo(Clone)
+      position: {x: 0.0022062098, y: -0.17878065, z: 0.011447508}
+      rotation: {x: 0.01832985, y: 0.8978696, z: 0.25010055, w: 0.36186177}
+      scale: {x: 0.98402923, y: 0.98402923, z: 0.98402923}
+    - name: pCube25
+      parentName: Pollo combo(Clone)
+      position: {x: 0.0007658583, y: -0.17878065, z: 0.011927295}
+      rotation: {x: 0.34782204, y: 0.75802636, z: -0.18986267, w: 0.5180425}
+      scale: {x: 0.72298396, y: 0.72298396, z: 0.72298396}
+    - name: pCube26
+      parentName: Pollo combo(Clone)
+      position: {x: -0.0022012757, y: -0.17789431, z: 0.012975912}
+      rotation: {x: 0.25013945, y: -0.19161281, z: -0.034625627, w: 0.9484281}
+      scale: {x: 0.98402923, y: 0.98402923, z: 0.98402923}
+    - name: pCube27
+      parentName: Pollo combo(Clone)
+      position: {x: 0.00049063144, y: -0.17880066, z: 0.0134972185}
+      rotation: {x: 0.7701441, y: 0.26494333, z: 0.53911316, w: 0.21456967}
+      scale: {x: 0.98402923, y: 0.98402923, z: 0.98402923}
+    - name: pCube28
+      parentName: Pollo combo(Clone)
+      position: {x: -0.00051587936, y: -0.17773889, z: 0.013040323}
+      rotation: {x: 0.1678496, y: 0.7793318, z: 0.057391115, w: 0.60097814}
+      scale: {x: 0.98402923, y: 0.98402923, z: 0.98402923}
+    - name: pCube29
+      parentName: Pollo combo(Clone)
+      position: {x: 0.0040847347, y: -0.17880066, z: 0.011443817}
+      rotation: {x: 0.7701441, y: 0.26494333, z: 0.53911316, w: 0.21456967}
+      scale: {x: 0.98402923, y: 0.98402923, z: 0.98402923}
+    - name: pCube30
+      parentName: Pollo combo(Clone)
+      position: {x: 0.0031629163, y: -0.17878065, z: 0.013337698}
+      rotation: {x: 0.12719606, y: 0.6447603, z: 0.21611902, w: 0.72207886}
+      scale: {x: 0.98402923, y: 0.98402923, z: 0.98402923}
+    - name: pCube31
+      parentName: Pollo combo(Clone)
+      position: {x: 0.0013262078, y: -0.17880066, z: 0.014968657}
+      rotation: {x: 0, y: 0.3962327, z: -0, w: 0.9181502}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube32
+      parentName: Pollo combo(Clone)
+      position: {x: 0.0015736853, y: -0.17817153, z: 0.013040323}
+      rotation: {x: -0.42012107, y: 0.52926034, z: -0.45396054, w: 0.58077675}
+      scale: {x: 0.98402923, y: 0.98402923, z: 0.98402923}
+    - name: pCube33
+      parentName: Pollo combo(Clone)
+      position: {x: -0.0003243029, y: -0.17880066, z: 0.015040498}
+      rotation: {x: 0.7701441, y: 0.26494333, z: 0.53911316, w: 0.21456967}
+      scale: {x: 0.98402923, y: 0.98402923, z: 0.98402923}
+    - name: pCube34
+      parentName: Pollo combo(Clone)
+      position: {x: -0.0004692918, y: -0.17781484, z: 0.014364555}
+      rotation: {x: 0.1678496, y: 0.7793318, z: 0.057391115, w: 0.60097814}
+      scale: {x: 0.91148275, y: 0.91148275, z: 0.91148275}
+    - name: pCube35
+      parentName: Pollo combo(Clone)
+      position: {x: 0.00135777, y: -0.17791408, z: 0.013771443}
+      rotation: {x: 0.01832985, y: 0.8978696, z: 0.25010055, w: 0.36186177}
+      scale: {x: 0.98402923, y: 0.98402923, z: 0.98402923}
+    - name: pCube36
+      parentName: Pollo combo(Clone)
+      position: {x: 0.004326764, y: -0.17878065, z: 0.012765262}
+      rotation: {x: 0.070375375, y: 0.909856, z: -0.23243806, w: 0.3364253}
+      scale: {x: 0.98402923, y: 0.98402923, z: 0.98402923}
+    - name: pCube37
+      parentName: Pollo combo(Clone)
+      position: {x: 0.0028192364, y: -0.17878065, z: 0.014299555}
+      rotation: {x: 0.12906027, y: 0.5511573, z: -0.3170272, w: 0.76096183}
+      scale: {x: 0.98402923, y: 0.98402923, z: 0.98402923}
+    - name: pCube38
+      parentName: Pollo combo(Clone)
+      position: {x: 0.0054459665, y: -0.17880066, z: 0.010097381}
+      rotation: {x: 0.7701441, y: 0.26494333, z: 0.53911316, w: 0.21456967}
+      scale: {x: 0.98402923, y: 0.98402923, z: 0.98402923}
+    - name: pCube39
+      parentName: Pollo combo(Clone)
+      position: {x: 0.0054459665, y: -0.17880066, z: 0.0111712}
+      rotation: {x: 0.31808478, y: 0.7497593, z: 0.201026, w: 0.5443085}
+      scale: {x: 0.98402923, y: 0.98402923, z: 0.98402923}
+    - name: pCube40
+      parentName: Pollo combo(Clone)
+      position: {x: 0.0057594776, y: -0.17882521, z: 0.0084074605}
+      rotation: {x: -0.4163954, y: 0.87293327, z: -0.10707201, w: 0.23051682}
+      scale: {x: 0.9624413, y: 0.9624413, z: 0.9624413}
+    - name: pCube41
+      parentName: Pollo combo(Clone)
+      position: {x: 0.0056838044, y: -0.17880066, z: 0.0061632534}
+      rotation: {x: 0.7701441, y: 0.26494333, z: 0.53911316, w: 0.21456967}
+      scale: {x: 0.98402923, y: 0.98402923, z: 0.98402923}
+    - name: pCube42
+      parentName: Pollo combo(Clone)
+      position: {x: 0.0069503165, y: -0.17880066, z: 0.0069420016}
+      rotation: {x: -0.01204293, y: 0.8633737, z: -0.35608956, w: 0.35726905}
+      scale: {x: 0.98402923, y: 0.98402923, z: 0.98402923}
+    - name: pCube43
+      parentName: Pollo combo(Clone)
+      position: {x: 0.0067310273, y: -0.17872497, z: 0.00884703}
+      rotation: {x: 0.17984264, y: 0.9502917, z: 0.04981981, w: 0.24923967}
+      scale: {x: 0.9624413, y: 0.9624413, z: 0.9624413}
+    - name: pCube44
+      parentName: Pollo combo(Clone)
+      position: {x: 0.0031629163, y: -0.17736538, z: 0.012468224}
+      rotation: {x: 0.19891766, y: 0.5028105, z: 0.121032745, w: 0.83244485}
+      scale: {x: 0.98402923, y: 0.98402923, z: 0.98402923}
+    - name: pCube45
+      parentName: Pollo combo(Clone)
+      position: {x: 0.00135777, y: -0.17698406, z: 0.012550433}
+      rotation: {x: -0.19397298, y: 0.8768582, z: 0.15768912, w: 0.41064385}
+      scale: {x: 0.79541284, y: 0.79541284, z: 0.79541284}
+    - name: group2
+      parentName: Pollo combo(Clone)
+      position: {x: -0.0068885987, y: -0.17826036, z: 0.00093878945}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube47
+      parentName: group2
+      position: {x: -0.0008188489, y: 0.00007608639, z: 0.003880858}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube5
+      parentName: group2
+      position: {x: -0.0004676739, y: -0.00037232312, z: 0.001536636}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube11
+      parentName: group2
+      position: {x: -0.0005410617, y: -0.00017032612, z: 0.0025686175}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube6
+      parentName: group2
+      position: {x: -0.000093019764, y: -0.00059852464, z: 0.002480435}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube7
+      parentName: group2
+      position: {x: -0.0006413752, y: -0.0007948241, z: 0.0008262803}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube10
+      parentName: group2
+      position: {x: -0.000981123, y: -0.00021634664, z: -0.000009541143}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube49
+      parentName: group2
+      position: {x: -0.00057364994, y: 0.00012085943, z: -0.00041400234}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube9
+      parentName: group2
+      position: {x: -0.00032121953, y: -0.0007948241, z: -0.001963106}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube48
+      parentName: group2
+      position: {x: -0.0010996639, y: -0.0007948241, z: -0.0028427795}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube46
+      parentName: group2
+      position: {x: -0.0009264387, y: 0.00015478469, z: 0.0025686175}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube1
+      parentName: group2
+      position: {x: 0.0009437274, y: -0.0007948241, z: 0.001536636}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: group3
+      parentName: Pollo combo(Clone)
+      position: {x: 0.0067457906, y: -0.17826036, z: 0.001679294}
+      rotation: {x: 7.510429e-17, y: 0.96526194, z: -7.510429e-17, w: 0.26128414}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube47 1
+      parentName: group3
+      position: {x: -0.0015752251, y: 0.00007608639, z: 0.00003379196}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube5 1
+      parentName: group3
+      position: {x: -0.0004676739, y: -0.00037232312, z: 0.001536636}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube11 1
+      parentName: group3
+      position: {x: -0.000089545174, y: -0.00017032612, z: 0.0023048513}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube6 1
+      parentName: group3
+      position: {x: 0.00045978, y: -0.00059852464, z: 0.0017575773}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube7 1
+      parentName: group3
+      position: {x: -0.0006413752, y: -0.0007948241, z: 0.0008262803}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube10 1
+      parentName: group3
+      position: {x: -0.000981123, y: -0.00021634664, z: -0.000009541143}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube49 1
+      parentName: group3
+      position: {x: -0.00057364994, y: 0.00012085943, z: -0.00041400234}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube9 1
+      parentName: group3
+      position: {x: -0.00032121953, y: -0.0007948241, z: -0.001963106}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube48 1
+      parentName: group3
+      position: {x: -0.0010996639, y: -0.0007948241, z: -0.0028427795}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube46 1
+      parentName: group3
+      position: {x: -0.0016828149, y: -0.00019499208, z: -0.0012784486}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube1 1
+      parentName: group3
+      position: {x: 0.0009437274, y: -0.0007948241, z: 0.001536636}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube50
+      parentName: group3
+      position: {x: -0.002288311, y: -0.00055342336, z: -0.0030261527}
+      rotation: {x: 0, y: -0, z: -0.17574069, w: 0.9844365}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube51
+      parentName: group3
+      position: {x: -0.0017841163, y: -0.00055342336, z: -0.0021630689}
+      rotation: {x: -0.42937574, y: 0.8841486, z: -0.16461223, w: 0.082587585}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube52
+      parentName: Pollo combo(Clone)
+      position: {x: -0.0008901346, y: -0.17859612, z: -0.009895734}
+      rotation: {x: 0.33279493, y: -0.3578908, z: 0.27621886, w: 0.82756567}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube53
+      parentName: Pollo combo(Clone)
+      position: {x: -0.0037824602, y: -0.17859612, z: -0.009895734}
+      rotation: {x: 0.33279493, y: -0.3578908, z: 0.27621886, w: 0.82756567}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube54
+      parentName: Pollo combo(Clone)
+      position: {x: -0.0058103083, y: -0.17859612, z: -0.008828436}
+      rotation: {x: 0.719352, y: 0.49561295, z: -0.3975731, w: 0.28077778}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube55
+      parentName: Pollo combo(Clone)
+      position: {x: -0.0024779378, y: -0.17886233, z: -0.0093425615}
+      rotation: {x: 0.4698816, y: -0.13434869, z: -0.1913136, w: 0.85121137}
+      scale: {x: 0.80512786, y: 0.80512786, z: 0.80512786}
+    - name: pCube56
+      parentName: Pollo combo(Clone)
+      position: {x: 0.0046816864, y: -0.17886233, z: -0.0093425615}
+      rotation: {x: 0.4698816, y: -0.13434869, z: -0.1913136, w: 0.85121137}
+      scale: {x: 0.80512786, y: 0.80512786, z: 0.80512786}
+    - name: pCube57
+      parentName: Pollo combo(Clone)
+      position: {x: 0.0058280975, y: -0.17886233, z: -0.0083609205}
+      rotation: {x: 0, y: -0.18371262, z: -0, w: 0.98298}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube58
+      parentName: Pollo combo(Clone)
+      position: {x: 0.0008803963, y: -0.17859612, z: -0.009922354}
+      rotation: {x: 0, y: -0.27277115, z: -0, w: 0.9620789}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube59
+      parentName: Pollo combo(Clone)
+      position: {x: 0.0008803963, y: -0.17859612, z: -0.012031164}
+      rotation: {x: 0, y: -0.27277115, z: -0, w: 0.9620789}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube60
+      parentName: Pollo combo(Clone)
+      position: {x: 0.0008803963, y: -0.17859612, z: -0.012031164}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube61
+      parentName: Pollo combo(Clone)
+      position: {x: -0.0009611884, y: -0.17891593, z: -0.012031164}
+      rotation: {x: 0.15492004, y: 0.39865088, z: 0.01874846, w: 0.9037288}
+      scale: {x: 0.78435194, y: 0.78435194, z: 0.78435194}
+    - name: pCube62
+      parentName: Pollo combo(Clone)
+      position: {x: -0.0023538356, y: -0.17891593, z: -0.011082752}
+      rotation: {x: 0.15492004, y: 0.39865088, z: 0.01874846, w: 0.9037288}
+      scale: {x: 0.78435194, y: 0.78435194, z: 0.78435194}
+    - name: pCube63
+      parentName: Pollo combo(Clone)
+      position: {x: -0.0023538356, y: -0.17778069, z: -0.010365867}
+      rotation: {x: 0.13819392, y: 0.6933139, z: 0.07248559, w: 0.70353687}
+      scale: {x: 0.78435194, y: 0.78435194, z: 0.78435194}
+    - name: pCube64
+      parentName: Pollo combo(Clone)
+      position: {x: -0.003991545, y: -0.17863965, z: -0.011342974}
+      rotation: {x: 0.13819392, y: 0.6933139, z: 0.07248559, w: 0.70353687}
+      scale: {x: 0.78435194, y: 0.78435194, z: 0.78435194}
+    - name: pCube65
+      parentName: Pollo combo(Clone)
+      position: {x: 0.0034495683, y: -0.17863965, z: -0.011032221}
+      rotation: {x: 0.13819392, y: 0.6933139, z: 0.07248559, w: 0.70353687}
+      scale: {x: 0.78435194, y: 0.78435194, z: 0.78435194}
+    - name: pCube66
+      parentName: Pollo combo(Clone)
+      position: {x: 0.002062059, y: -0.17863965, z: -0.011032221}
+      rotation: {x: 0.14538494, y: -0.075833455, z: -0.056700457, w: 0.9848338}
+      scale: {x: 0.78435194, y: 0.78435194, z: 0.78435194}
+    - name: pCube67
+      parentName: Pollo combo(Clone)
+      position: {x: 0.0030800954, y: -0.17863965, z: -0.012053797}
+      rotation: {x: 0.14538494, y: -0.075833455, z: -0.056700457, w: 0.9848338}
+      scale: {x: 0.78435194, y: 0.78435194, z: 0.78435194}
+    - name: pCube68
+      parentName: Pollo combo(Clone)
+      position: {x: -0.00045512177, y: -0.17795292, z: -0.010779147}
+      rotation: {x: 0.11717943, y: 0.83978647, z: 0.10305679, w: 0.52000666}
+      scale: {x: 0.78435194, y: 0.78435194, z: 0.78435194}
+    - name: pCube69
+      parentName: Pollo combo(Clone)
+      position: {x: -0.0016401642, y: -0.17808218, z: -0.010779147}
+      rotation: {x: 0.13559227, y: -0.21826492, z: -0.07724286, w: 0.96333206}
+      scale: {x: 0.6598166, y: 0.6598166, z: 0.6598166}
+    - name: pCube70
+      parentName: Pollo combo(Clone)
+      position: {x: -0.0025818192, y: -0.17860483, z: -0.012440307}
+      rotation: {x: 0.50206006, y: -0.157807, z: 0.13047984, w: 0.8402427}
+      scale: {x: 0.8515092, y: 0.8515092, z: 0.8515092}
+    - name: pCube71
+      parentName: Pollo combo(Clone)
+      position: {x: -0.0018146783, y: -0.17755246, z: -0.012031164}
+      rotation: {x: 0.05712416, y: -0.35933295, z: -0.12312168, w: 0.9232864}
+      scale: {x: 0.78435194, y: 0.78435194, z: 0.78435194}
+    - name: pCube72
+      parentName: Pollo combo(Clone)
+      position: {x: -0.0011030113, y: -0.17697527, z: -0.011001122}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.6768625, y: 0.6768625, z: 0.6768625}
+    - name: pCube73
+      parentName: Pollo combo(Clone)
+      position: {x: 0.001337432, y: -0.17752494, z: -0.011032221}
+      rotation: {x: 0.06320457, y: -0.18338352, z: -0.02687171, w: 0.9806394}
+      scale: {x: 0.78435194, y: 0.78435194, z: 0.78435194}
+    - name: Assets:m_Plate3
+      parentName: Pollo combo(Clone)
+      position: {x: 0.0000000033665986, y: -0.18031205, z: 0.0010094929}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.088253364, y: 0.088253364, z: 0.07852857}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
